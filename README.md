@@ -7,6 +7,7 @@
 # Recommended actions after install:
 - Provision Windows Device Portal for PC connection
 - Install Andromeda Settings and WPDevPortal
+- Kernel debugging is enabled by default, disable this to improve performance slightly
 
 # Guide
 *Ensure your 950 is on 14393 (untested on higher builds) and is unlocked with Mass Storage access*
@@ -29,6 +30,7 @@
 - All app packages must have a valid certificate.
 - My Andromeda Settings app has an expired certificate, an update is planned to rectify this and add a few more features.
 - Volume Keys don't work.
+- Kernel debugging is enabled by default, disable this to improve performance slightly
 
 
 ### Personal note:
